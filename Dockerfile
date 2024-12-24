@@ -21,6 +21,5 @@ RUN npm start
 
 EXPOSE 5000
 
-COPY . .
 
 CMD ["npm","start" ]
